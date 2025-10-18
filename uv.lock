@@ -108,7 +108,7 @@ wheels = [
 ]
 
 [[package]]
-name = "cli-backend-server"
+name = "cli-background-server"
 version = "0.1.0"
 source = { editable = "." }
 

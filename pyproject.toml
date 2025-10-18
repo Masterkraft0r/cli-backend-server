@@ -1,7 +1,7 @@
 [project]
-name = "cli-backend-server"
+name = "cli-background-server"
 version = "0.1.0"
-description = "A CLI backend server"
+description = "A CLI background server"
 readme = "README.md"
 authors = [
     { name = "Benjamin Bugl", email = "benjamin.bugl@gmx.net" }

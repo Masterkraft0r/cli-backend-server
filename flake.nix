@@ -33,7 +33,7 @@
     in
     {
       devShells.${system}.default = mkShell {
-        name = "cli-backend-server";
+        name = "cli-background-server";
         packages = with pkgs; [
           basedpyright
           just
